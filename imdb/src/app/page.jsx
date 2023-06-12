@@ -1,4 +1,4 @@
-import { Results } from "@/components/DataResults/Results   ";
+import { Results } from "@/components/DataResults/Results";
 
 const API_KEY = process.env.API_KEY;
 
