@@ -1,0 +1,9 @@
+.cardWrapper {
+  @apply cursor-pointer rounded-lg transition-shadow duration-200;
+  @apply sm:p-3 sm:hover:shadow-slate-400 sm:shadow-md sm:border sm:border-slate-400 sm:m-2;
+}
+
+.imageContainer {
+  @apply sm:rounded-t-lg;
+  @apply group-hover:opacity-80 transition-opacity duration-200;
+}
