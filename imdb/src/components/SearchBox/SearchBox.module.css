@@ -1,0 +1,13 @@
+.formWrapper {
+  @apply flex justify-between items-center px-5 mx-auto max-w-6xl;
+}
+
+.input {
+  @apply w-full h-14;
+  @apply border-b-2 placeholder-gray-500 rounded-sm outline-none bg-transparent flex-1;
+}
+
+.button {
+  @apply text-amber-600 font-bold p-3 mt-2 rounded;
+  @apply disabled:cursor-not-allowed disabled:text-gray-400;
+}
