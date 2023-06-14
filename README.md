@@ -2,7 +2,8 @@
 NextJS 13 연습을 위한 간단한 IMDB 클론 사이트
 
 ## IMDB Projects
-<img width="1268" alt="스크린샷 2023-06-14 오전 11 27 44" src="https://github.com/HYBEN09/IMDB/assets/104710243/f413c2ac-2332-46fb-a698-2fc94d99fe29">
+<img width="1268" alt="스크린샷 2023-06-14 오전 11 27 44" src="https://github.com/HYBEN09/IMDB/assets/104710243/35dc93d1-027b-4237-9807-8f0b000107c2">
+
 
 ### 🔗 배포 : https://nextjs-imdb-project.vercel.app/
 
